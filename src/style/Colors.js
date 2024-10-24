@@ -21,7 +21,6 @@ const colors = {
     LIGHTPINK : '#fee3ed',
     CHOCOLATE: '#995828',
     LIGHTCHOCOLATE: '#f6e8dd',
-    rgba: '#fff'
 
 }
 

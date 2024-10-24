@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130344668770",
+    "project_id": "agentech-a8eeb",
+    "storage_bucket": "agentech-a8eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130344668770:android:285b30aa2d27b9d47a0b3b",
+        "android_client_info": {
+          "package_name": "com.intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130344668770-i6spgb4an85aoi6ke66ra6avd1g70r9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPC89fv7GECVl1aAu8w6IL9R-dN5RRR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130344668770-i6spgb4an85aoi6ke66ra6avd1g70r9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
